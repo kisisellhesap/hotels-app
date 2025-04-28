@@ -2,8 +2,7 @@
 
 This project is a modern web application where users can browse existing hotels, view detailed information, filter hotels based on criteria, and add or remove hotels easily. It uses efficient data fetching with React Query and smooth form handling with Formik.
 
-🔗 **Live Demo**: Hotels App with TS  
-🔗 **GitHub Repository**: GitHub Repo
+🔗 **GitHub Repository**: [GitHub Repo](https://github.com/kisisellhesap/hotels-app)
 
 # 🚀 Features
 
